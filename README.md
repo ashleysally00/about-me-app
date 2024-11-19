@@ -1,6 +1,6 @@
 # AI-Powered About Me Generator
 
-This is a project currently under development and considered **work in progress**. ☀️ 🌈
+This is a project currently under development and considered a **work in progress**. ☀️ 🌈
 
 ## Overview
 This is a Streamlit-based web application that helps users generate engaging and personalized "About Me" sections for platforms like LinkedIn, resumes, and personal websites. The app leverages the **Gemini Generative AI API** by Google to create professional, casual, or enthusiastic bios tailored to individual needs.
